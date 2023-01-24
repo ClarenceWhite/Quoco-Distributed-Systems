@@ -1,2 +1,8 @@
 # Quoco-Distributed-Systems
-This is the repository for all assignments I did in the course distribted systems, which benefits me a lot.
+This is the repository for all assignments I did in the course distribted systems, which benefits me a lot.  
+The repository contnets the following modules:
+- 
+- 
+- 
+- 
+- 
