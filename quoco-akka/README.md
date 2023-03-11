@@ -1,4 +1,4 @@
-#Quoco-Akka
+# Quoco-Akka
 ## Architecture and Implementation
 ### Connections between components
 - For three services, they will send a String message "register" to broker, tell the broker that "I want to be registered", once the broker received this message, it will add the ActorRef of the service to a list.
