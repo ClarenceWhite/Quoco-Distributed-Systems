@@ -1,11 +1,11 @@
-#Implementation
+# Implementation
 I had implemented all the tasks in this practical.
 The code follows the diagram from class:
 ![flow](flow.png)  
 There are three queues which are REQUEST, QUOTATION and RESPONSE.
 There is one topic APPLICATIONS.
 
-#How to run
+# How to run
 As the project has already been built with docker (except client module), so we need two terminals to run it.
 
 - Open the first terminal, type:  
